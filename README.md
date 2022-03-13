@@ -25,4 +25,13 @@ kafka-console-producer.sh --bootstrap-server localhost:9092 --topic test
 kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic test
 ``` 
 
+# 4. test
 
+- producer
+
+![스크린샷 2022-03-13 오후 3 59 32](https://user-images.githubusercontent.com/33655186/158049003-202f2f45-5b2c-4e15-be1f-cdf09804c208.png)
+
+
+- consumer
+
+<img width="760" alt="스크린샷 2022-03-13 오후 3 59 53" src="https://user-images.githubusercontent.com/33655186/158049012-76ea3fd8-a90b-416b-99d8-852f4940b9b0.png">
