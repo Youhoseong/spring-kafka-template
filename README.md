@@ -5,3 +5,5 @@
    
 2. zookeeper
    - Apache Zookeeper image 사용
+
+3. pub/sub 구조 (Spring boot project)
